@@ -3,7 +3,7 @@
 A clean, responsive weather dashboard that allows users to look up real-time weather details for any city globally. This project was built to practice handling asynchronous API calls, error boundaries, and dynamic DOM manipulation in vanilla JavaScript.
 
 ## 🚀 Live Demo
-[View Live Project](https://nhattan220602.github.io/simple-weather-app/) *(Replace this link once you deploy via GitHub Pages!)*
+[View Live Project](https://nhattan220602.github.io/simple-weather-app/)
 
 ## ✨ Features
 * **Real-Time Data:** Integrates with the OpenWeatherMap API to fetch current temperature, humidity, and wind speed metrics.
