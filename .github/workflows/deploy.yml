@@ -24,7 +24,7 @@ jobs:
       - name: Create Config File
         run: echo "const apiKey = '${{ secrets.WEATHER_API_KEY }}';" > config.js
 
-      \item Setup Pages
+      - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Upload Artifacts
