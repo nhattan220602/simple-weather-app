@@ -17,5 +17,16 @@ A clean, responsive weather dashboard that allows users to look up real-time wea
 
 ## ⚙️ Setup & Installation
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/nhattan220602/simple-weather-app.git](https://github.com/nhattan220602/simple-weather-app.git)
+```bash
+   git clone https://github.com/nhattan220602/simple-weather-app.git
+```
+2. Get a free API key from [OpenWeatherMap](https://openweathermap.org/api)
+
+3. Create `src/config.js` (excluded from version control):
+```js
+   const apiKey = 'YOUR_API_KEY_HERE';
+```
+
+4. Open `src/index.html` in your browser.
+
+> **Note:** The live demo is deployed via GitHub Actions, which securely injects the API key at build time using GitHub Secrets — the key is never stored in the repository.
