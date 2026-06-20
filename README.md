@@ -6,14 +6,14 @@ A clean, responsive weather dashboard that allows users to look up real-time wea
 [View Live Project](https://nhattan220602.github.io/simple-weather-app/)
 
 ## Features
-* **Real-Time Data:** Integrates with the OpenWeatherMap API to fetch current temperature, humidity, and wind speed metrics.
-* **Dynamic Weather States:** Evaluates API response weather conditions (`Clouds`, `Clear`, `Rain`, etc.) to update UI layout iconography on the fly.
-* **Input Error Handling:** Features built-in status catch validation to hide default layouts and display clean user-facing error indicators when invalid city searches occur.
+- **Real-Time Data:** Integrates with the OpenWeatherMap API to fetch current temperature, humidity, and wind speed metrics.
+- **Dynamic Weather States:** Evaluates API response weather conditions (`Clouds`, `Clear`, `Rain`, etc.) to update UI layout iconography on the fly.
+- **Input Error Handling:** Features built-in status catch validation to hide default layouts and display clean user-facing error indicators when invalid city searches occur.
 
 ## Built With
-* **HTML5:** Semantic document structure.
-* **CSS3:** Custom linear gradients, responsive card layout, and flexbox distribution.
-* **JavaScript (ES6):** Async/Await Fetch API, error handling (`try...catch`), and dynamic DOM rendering.
+- **HTML5:** Semantic document structure.
+- **CSS3:** Custom linear gradients, responsive card layout, and flexbox distribution.
+- **JavaScript (ES6):** Async/Await Fetch API, error handling (`try...catch`), and dynamic DOM rendering.
 
 ## Setup & Installation
 1. Clone the repository:
